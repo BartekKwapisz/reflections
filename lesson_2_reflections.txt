@@ -1,0 +1,6 @@
+-staging area allows to keep files temporarily without changing working directory and repository
+-to mak esure I've got one commit per logical change I should add files when change was made, change status, and commit change if color of files in status are red
+-branches would help keeping history organized when I want to make a different version of the file, but don't have to pollute original one
+-diagrams show branch structure in abstract way
+-merging two branches together takes changes from both, and make them into one unless they're not in conflict
+-pros of manual merging: you can merge when you think you should; cons: you have to do it from time to time by your own
