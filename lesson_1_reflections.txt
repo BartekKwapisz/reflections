@@ -1,0 +1,8 @@
+- viewing a diff between two versions cut file into smaller parts, so spotting bug was faster
+- history of changes allows to see what we wanted to achieve with those changes and what was the impact for futures state of project
+- manual updates looks like the most reasonable solution when you don't work like a robot, but have to think
+-git allows multiple files saving because such files are often interrelated, Google Docs just store files, there's no dependency that would make files work differently if one of them has changed
+-using git log I can see id, massage and some other details (especially with --stat), git diff shows how files are different, so I can track changes and potential bugs
+-version control allows me to go back to code that works as I want, and help find the errors	
+- I wish I use Git for a project that really need i
+-staging area allows to keep files temporarily without changing working directory and repository
